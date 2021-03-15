@@ -10,6 +10,7 @@ h1{color:gray;}
     padding: 25px;
     margin-bottom: 20px;
     width: 300px;
+    text-align: center;
 }
 #result{
     background-color: yellow;
