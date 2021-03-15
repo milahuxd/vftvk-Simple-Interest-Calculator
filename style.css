@@ -8,6 +8,7 @@ h1{color:gray;}
     border-radius: 25px;
     padding: 25px;
     margin-bottom: 20px;
+    width: 300px;
 }
 #result{
     background-color: yellow;
