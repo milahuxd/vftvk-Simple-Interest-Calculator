@@ -1,6 +1,7 @@
 body {background-color:tan;
 text-align: center;
     margin: auto;
+    max-width: 300px;
 font-family: arial;
 color: black;}
 h1{color:gray;}
